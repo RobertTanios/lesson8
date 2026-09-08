@@ -21,6 +21,9 @@
     "url": "https://github.com/RobertTanios/lesson8/issues"
   },
   "homepage": "https://github.com/RobertTanios/lesson8#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "jest": "^30.5.1"
   }
