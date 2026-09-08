@@ -5,8 +5,13 @@ function multiply(num1, num2) {
 function add(num1, num2) {
   return num1 + num2;
 }
+
 function substract(num1, num2) {
   return num1 - num2;
 }
 
-module.exports = { add, multiply, substract };
+function divide(num1, num2) {
+  return num1 / num2;
+}
+
+module.exports = { add, multiply, substract, divide };
