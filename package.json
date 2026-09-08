@@ -1,14 +1,17 @@
 {
-  "name": "lesson8",
-  "version": "1.1.0",
+  "name": "@RobertTanios/lesson8",
+  "version": "1.1.1",
   "description": "A simple math operations module for the GitHub Learning Lab exercise",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest --coverage"
-  },
+  "main": "/src/appOperations.js",
+  "files": [
+    "/src"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobertTanios/lesson8.git"
+    "url": "git+https://github.com/RobertTanios/lesson8"
+  },
+  "scripts": {
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
