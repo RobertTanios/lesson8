@@ -1,6 +1,6 @@
 {
   "name": "@RobertTanios/lesson8",
-  "version": "1.1.1",
+  "version": "1.1.5",
   "description": "A simple math operations module for the GitHub Learning Lab exercise",
   "main": "/src/appOperations.js",
   "files": [
