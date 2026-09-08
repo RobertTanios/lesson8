@@ -11,3 +11,7 @@ test('adding 2 values', () => {
 test('substracting 2 values', () => {
   expect(appOperations.substract(5, 3)).toBe(2);
 });
+
+test('test divide', () => {
+  expect(appOperations.divide(10, 2)).toBe(5);
+});
