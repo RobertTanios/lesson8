@@ -1,14 +1,14 @@
 {
   "name": "@RobertTanios/lesson8",
   "version": "1.1.1",
-  "description": "A simple math operations module for the GitHub Learning Lab exercise",
+  "description": "demo application for the GitHub Actions Workshop",
   "main": "/src/appOperations.js",
   "files": [
     "/src"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobertTanios/lesson8.git"
+    "url": "https://github.com/RobertTanios/lesson8.git"
   },
   "scripts": {
     "test": "jest --coverage"
@@ -16,14 +16,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/RobertTanios/lesson8/issues"
-  },
-  "homepage": "https://github.com/RobertTanios/lesson8#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "devDependencies": {
     "jest": "^30.5.1"
   }
